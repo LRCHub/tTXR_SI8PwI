@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "金木犀",
+  "base_artist": "natori",
+  "createdAt": "2025-12-04T14:05:28.564433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "金木犀",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/01_金木犀_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "金木犀",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/02_金木犀_なとり.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "金木犀",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/03_金木犀_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "金木犀 - Osmanthus (feat. Ado)",
+      "artist": "WhaleDontSleep",
+      "has_synced": true,
+      "path": "select/04_金木犀_-_Osmanthus_(feat._Ado)_WhaleDontSleep.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "金木犀",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/05_金木犀_なとり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "金木犀 feat. 鈴木真海子",
+      "artist": "TOSHIKI HAYASHI (%C)",
+      "has_synced": false,
+      "path": "select/06_金木犀_feat._鈴木真海子_TOSHIKI_HAYASHI_(_C).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金木犀",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_金木犀_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "金木犀",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_金木犀_なとり.txt"
+    }
+  ]
+}
